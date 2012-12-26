@@ -1,4 +1,4 @@
-(defproject cegdown "0.1.0-SNAPSHOT"
+(defproject me.raynes/cegdown "0.1.0"
   :description "A simple Clojure pegdown wrapper."
   :url "https://github.com/Raynes/cegdown"
   :license {:name "Eclipse Public License"
