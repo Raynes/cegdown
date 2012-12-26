@@ -21,7 +21,7 @@ user> (md/to-html "# hi\nhow are you")
 
 Pegdown has lots of
 [extensions](http://www.decodified.com/pegdown/api/org/pegdown/Extensions.html). You
-can use the with `to-html`. Just pass it a sequence of keywords. For example, if
+can use them with `to-html`. Just pass it a sequence of keywords. For example, if
 we wanted fenced code blocks (like this README uses):
 
 ```clojure
