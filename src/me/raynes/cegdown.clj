@@ -11,6 +11,7 @@
    :hardwraps            Extensions/HARDWRAPS
    :none                 Extensions/NONE
    :quotes               Extensions/QUOTES
+   :smarts               Extensions/SMARTS
    :smartypants          Extensions/SMARTYPANTS
    :suppress-all-html    Extensions/SUPPRESS_ALL_HTML
    :suppress-html-blocks Extensions/SUPPRESS_HTML_BLOCKS
