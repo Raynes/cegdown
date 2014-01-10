@@ -17,7 +17,8 @@
    :suppress-html-blocks Extensions/SUPPRESS_HTML_BLOCKS
    :suppress-inline-html Extensions/SUPPRESS_INLINE_HTML
    :tables               Extensions/TABLES
-   :wikilinks            Extensions/WIKILINKS})
+   :wikilinks            Extensions/WIKILINKS
+   :strikethrough        Extensions/STRIKETHROUGH})
 
 (defn select-extensions
   "Take a list of extension keywords and get the bit-or'd extensions to pass
