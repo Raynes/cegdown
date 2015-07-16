@@ -6,6 +6,7 @@
   {:abbreviations        Extensions/ABBREVIATIONS
    :all                  Extensions/ALL
    :autolinks            Extensions/AUTOLINKS
+   :anchorlinks          Extensions/ANCHORLINKS
    :definitions          Extensions/DEFINITIONS
    :fenced-code-blocks   Extensions/FENCED_CODE_BLOCKS
    :hardwraps            Extensions/HARDWRAPS
